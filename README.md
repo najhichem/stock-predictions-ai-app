@@ -1,4 +1,5 @@
-# cob324d5993713c3858c2a700
+# stock-predictions-ai-app
+ 
 
 Quick start:
 
